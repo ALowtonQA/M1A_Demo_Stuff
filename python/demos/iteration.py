@@ -37,13 +37,15 @@ while (choice == "y"):
 
 print("total is", total)
 
-
 # range function
 range(5)        # 0,1,2,3,4
 range(1,5)      # 1,2,3,4
 range(5, 0, -1) # 5,4,3,2,1
 
 # for loops
+for i in range(5):
+    print("The value is:", i)
+
 for i in range(1, 6):
     print(i) # 1, 2, 3, 4, 5
 
