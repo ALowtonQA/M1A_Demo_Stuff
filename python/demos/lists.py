@@ -10,6 +10,11 @@ numbers.insert(0, "hello")
 # add value to end of list
 numbers.append("end!")
 
+# remove first occurence of value from list
+numbers.remove(1)
+
+# remove specific index from list
+del(numbers[0])
 
 # loops through the list(numbers), one value at a time (num)
 for num in numbers:
