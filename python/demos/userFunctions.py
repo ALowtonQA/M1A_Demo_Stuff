@@ -48,4 +48,4 @@ print(fullName)
 
 makeFullNameNoReturn("Bob", "Smith") # this function doesn't return anything, so there's no response to do anything with
 
-functionWithMultipleArgs("hello", "there", "class", ":)") # this function can be called with ANY number of arguments :O !!
+functionWithMultipleArgs("hello", "there", "class", ":)") # this function can be called with ANY number of arguments :O
